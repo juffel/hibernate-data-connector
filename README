@@ -1,5 +1,6 @@
 Eclipse Project for the database connection of my roomlocator-tool for the sakai system.
 Used technologies:
- * Java
- * Maven
- * Hibernate
+ * Eclipse Kepler Service Release 2
+ * Java 7
+ * Maven 3.2.1
+ * Hibernate 3
